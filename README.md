@@ -26,6 +26,12 @@ Want to work with me? Want to chat about AI and Cyberpunk?  [Wirte me an email](
 
 ### 🛠️ Some open source projects i've worked on
 
+#### 🌟 AIDE - AI debugging extension
+
+AI-powered debugging extension for VSCode
+
+Website url: https://aide-extension.com/
+
 #### 🌟 [React native test preview](https://github.com/react-native-test-preview/test-preview)
 
 Utility that allows visualization of component tests for react native applications.
