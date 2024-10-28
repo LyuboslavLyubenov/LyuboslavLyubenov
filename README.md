@@ -1,4 +1,4 @@
-# 👋 Hey, my name is Lyuboslav
+# 👋 Hey, my name is Lyubo
 
 I'm a fullstack developer with over 8 years of professional experience. My career has spanned across various sectors including insurtech, energy, public transport, and education. I've participated in the development of products that are used by millions of people. 
 
