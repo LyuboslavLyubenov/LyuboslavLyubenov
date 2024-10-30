@@ -40,7 +40,7 @@ Website url: https://react-native-test-preview.github.io/landing-page/
 
 Tool that behaves like nvm-for-windows, but does not require administrative rights
 
-### Diffusion greet
+#### 🖼️ Diffusion greet
 
 Fine tuned diffusion model that generates morning greeting cards
 
