@@ -38,7 +38,7 @@ Utility that allows visualization of component tests for react native applicatio
 
 Website url: https://react-native-test-preview.github.io/landing-page/
 
-#### 🌟 [AIDE - AI debugger extension](https://github.com/yourusername/project2)
+#### 🌟 NVME
 
 Tool that behaves like nvm-for-windows, but does not require administrative rights
 
