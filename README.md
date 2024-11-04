@@ -30,7 +30,7 @@ AI-powered debugging extension for VSCode
 
 Website url: https://aide-extension.com/
 
-#### 🌟 [React native test preview](https://github.com/react-native-test-preview/test-preview)
+#### 🌟 [React native test preview](https://github.com/react-native-test-preview)
 
 Utility that allows visualization of component tests for react native applications.
 
