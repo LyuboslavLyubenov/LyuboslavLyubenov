@@ -37,7 +37,7 @@ Website url: https://aide-extension.com/
 
 Utility that allows visualization of component tests for react native applications.
 
-Website url: https://react-native-test-preview.github.io/landing-page/
+Website url: https://react-native-test-preview.github.io
 
 #### 🌟 NVME
 
