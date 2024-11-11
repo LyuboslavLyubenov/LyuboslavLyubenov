@@ -2,7 +2,7 @@
 
 - fullstack developer 8+ years of experience
 - typescript, react, nodejs, c#, react native
-- aws, github actions, netlify, heroku
+- aws, github actions, docker, (dev) containers
 - wide generalist in multiple industries (insurtech, mobilitytech, automobile, energy, medical)
 - worked on software used by millions
 
