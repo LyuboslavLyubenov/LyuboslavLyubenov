@@ -3,10 +3,17 @@
 - fullstack developer 8+ years of experience
 - typescript, react, nodejs, c#, react native
 - aws, github actions, docker, (dev) containers
-- wide generalist in multiple industries (insurtech, mobilitytech, automobile, energy, medical)
+<br></br>
+- co-author of [programmings basic with c#](https://csharp-book.softuni.org/)
+![Screenshot 2024-11-11 at 17 03 50](https://github.com/user-attachments/assets/83605268-d0eb-40bc-9cd7-822302111f77)
+- wide generalist in multiple industries (insurtech, mobilitytech, automobile, energy, medical), but with expert knowledge in React and frontend development
 - worked on software used by millions
+- active member in one of the biggest discord communities for testing. Come and say hi at ([react testing library discord](https://discord.com/channels/723559267868737556/))
+<br></br>
+- active in local coferences, last presented [Workplace ergonomics](https://docs.google.com/presentation/d/1UAs0rWAtqKhl1kBbnKv9ITfXvt97TGmvfWfxs_6HM-w/edit#slide=id.p) 
 
 Learning about:
+- Infra
 - AI (llms and prompt engineering) and genAI
 - Sales - curently in [sales club academy](https://salesclub.pro/academy/)
 - SEO
