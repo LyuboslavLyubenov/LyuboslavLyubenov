@@ -18,7 +18,6 @@ Learning about:
 - AI (llms and prompt engineering) and genAI
 - Sales - curently in [sales club academy](https://salesclub.pro/academy/)
 - SEO
-- Crypto
 
 Want to work together, talk about AI, play video games? [message me on discord](https://discordapp.com/users/409063369929392128)
 
