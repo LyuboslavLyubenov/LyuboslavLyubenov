@@ -32,7 +32,19 @@ Want to work together, talk about AI, play video games? [message me on discord](
 | Optimize ltd | Junior Fullstack Developer | 2017 - 2018 |
 | Game developer & owner | Stani2karche | 2016 - 2017 | 
 
+### Contracts experience
+
+- Developing AI software together with AI Collaborative for fortune 500
+- Developed whale tracking software for De-centra https://www.de-centra.com/
+- Web scraper for competititor analysis for https://sgtautotransport.com/
+
 ### 🛠️ Personal projects
+
+### Solodit MCP Server
+
+MCP server that allows searching in Solodit vulnerability db directly from Cursor.
+
+Link: https://github.com/LyuboslavLyubenov/search-solodit-mcp
 
 #### 🌟 AIDE - AI debugging extension
 
@@ -50,11 +62,6 @@ Website url: https://react-native-test-preview.github.io
 
 Tool that behaves like nvm-for-windows, but does not require administrative rights
 
-#### 🖼️ Diffusion greet
-
-Fine tuned diffusion model that generates morning greeting cards
-
-
 ## Contacts
 
-[Wirte me an email](mailto:l_lyubenov@protonmail.com), [message me on instagram](https://www.instagram.com/l_lyubenov_96/), [connect with me on linkedin](https://www.linkedin.com/in/lyuboslavlyubenovdead4y/) or [message me on discord](https://discordapp.com/users/409063369929392128)
+[Wirte me an email](mailto:l_lyubenov@protonmail.com), [connect with me on linkedin](https://www.linkedin.com/in/lyuboslavlyubenovdead4y/), [find me on X](https://x.com/LuboslavLubeno1) or [message me on discord](https://discordapp.com/users/409063369929392128)
