@@ -1,6 +1,6 @@
 # 👋 Hey, my name is Lyubo
 
-- fullstack developer 8+ years of experience
+- fullstack developer 9+ years of experience
 - typescript, react, nodejs, c#, react native
 - aws, github actions, docker, (dev) containers
 <br></br>
@@ -11,13 +11,7 @@
 - active member in one of the biggest discord communities for testing. Come and say hi at ([react testing library discord](https://discord.com/channels/723559267868737556/))
 
 Conferences:
-- active in local coferences, last presented [Workplace ergonomics](https://docs.google.com/presentation/d/1UAs0rWAtqKhl1kBbnKv9ITfXvt97TGmvfWfxs_6HM-w/edit#slide=id.p) 
-
-Learning about:
-- Infra
-- AI (llms and prompt engineering) and genAI
-- Sales - curently in [sales club academy](https://salesclub.pro/academy/)
-- SEO
+- active in local coferences, e.g. [Workplace ergonomics](https://docs.google.com/presentation/d/1UAs0rWAtqKhl1kBbnKv9ITfXvt97TGmvfWfxs_6HM-w/edit#slide=id.p) 
 
 Want to work together, talk about AI, play video games? [message me on discord](https://discordapp.com/users/409063369929392128)
 
@@ -36,7 +30,6 @@ Want to work together, talk about AI, play video games? [message me on discord](
 
 - Developing AI software together with AI Collaborative for fortune 500
 - Developed whale tracking software for De-centra https://www.de-centra.com/
-- Web scraper for competititor analysis for https://sgtautotransport.com/
 
 ### 🛠️ Personal projects
 
